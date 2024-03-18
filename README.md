@@ -121,6 +121,5 @@ WITH burger_count  AS(
 SELECT MAX(burger_per_order) AS burger_count
 FROM burger_count;
 
-**NOTE: FILES IS ATTACHED FOR YOUR REFERENCE**
-
+**END**
 
